@@ -1,6 +1,9 @@
+import { Box } from "@chakra-ui/react"
+
+
 export default () => {
   return (
-  <div>
-    this is focking navbar
-  </div>)
+      <Box bg = "#2C5282" w= "100%" p={10} >
+      </Box>
+  )
 }
